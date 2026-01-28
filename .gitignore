@@ -1,0 +1,14 @@
+# dataset
+fashion_dataset/
+
+# jupyter
+.ipynb_checkpoints/
+
+# python
+__pycache__/
+*.py[cod]
+
+# environments
+.venv/
+env/
+venv/
