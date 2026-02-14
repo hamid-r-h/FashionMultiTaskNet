@@ -7,8 +7,11 @@ fashion_dataset/
 # python
 __pycache__/
 *.py[cod]
-
 # environments
 .venv/
 env/
 venv/
+
+#files
+*.pth
+*.pt
